@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background1"
+    android:orientation="vertical" >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/title_bg_green" >
+
+        <TextView
+            android:id="@+id/main_pc80B_title_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="10dp"
+            android:text="@string/xindian" />
+
+        <TextView
+            android:id="@+id/main_pc80B_title_gain"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="10dp"
+            android:layout_toEndOf="@+id/main_pc80B_title_title" />
+
+        <TextView
+            android:id="@+id/main_pc80B_title_hr"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="10dp"
+            android:layout_toEndOf="@+id/main_pc80B_title_gain"
+            android:text="@string/heartbeat" />
+
+        <ImageView
+            android:id="@+id/main_pc80B_title_battery"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="10dp"
+            android:src="@drawable/battery_3"
+            android:visibility="invisible" />
+
+        <ImageView
+            android:id="@+id/main_pc80B_title_smooth"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="20dp"
+            android:layout_toStartOf="@+id/main_pc80B_title_battery"
+            android:src="@drawable/smooth"
+            android:visibility="invisible"/>
+
+        <ImageView
+            android:id="@+id/main_pc80B_title_pulse"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="20dp"
+            android:layout_toStartOf="@+id/main_pc80B_title_smooth"
+            android:src="@drawable/mainheart_ok"
+            android:visibility="invisible" />
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:orientation="vertical" >
+        <LinearLayout
+            android:id="@+id/left_temperature_curve"
+            android:layout_width="match_parent"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_height="200dp"
+            android:orientation="horizontal" >
+        </LinearLayout>
+    </LinearLayout>
+    <TextView
+        android:id="@+id/main_pc80B_MSG1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="心电测量结果"
+        android:layout_marginBottom="10dp"
+        android:textColor="#EEEE00"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/main_pc80B_MSG"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/resultdisplay"
+        android:gravity="center"
+        android:textColor="@color/color_main_histogram3"
+        android:textSize="24dp" />
+    <TextView
+        android:id="@+id/mTimer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        android:textColor="@android:color/holo_red_light"
+        android:visibility="invisible"
+        android:textSize="80sp"
+        />
+
+</LinearLayout>

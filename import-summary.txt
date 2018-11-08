@@ -1,0 +1,146 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea\
+* .idea\Bluetooth4_3.iml
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\workspace.xml
+* Bluetooth4_3\
+* Bluetooth4_3\.classpath
+* Bluetooth4_3\.project
+* Bluetooth4_3\.settings\
+* Bluetooth4_3\.settings\org.eclipse.core.resources.prefs
+* Bluetooth4_3\.settings\org.eclipse.jdt.core.prefs
+* Bluetooth4_3\AndroidManifest.xml
+* Bluetooth4_3\bin\
+* Bluetooth4_3\bin\AndroidManifest.xml
+* Bluetooth4_3\bin\classes\
+* Bluetooth4_3\bin\classes\com\
+* Bluetooth4_3\bin\classes\com\example\
+* Bluetooth4_3\bin\classes\com\example\bluetooth\
+* Bluetooth4_3\bin\classes\com\example\bluetooth\le\
+* Bluetooth4_3\bin\classes\com\example\bluetooth\le\BluetoothLeService$1.class
+* Bluetooth4_3\bin\classes\com\example\bluetooth\le\BluetoothLeService$LocalBinder.class
+* Bluetooth4_3\bin\classes\com\example\bluetooth\le\BluetoothLeService.class
+* Bluetooth4_3\bin\classes\com\example\bluetooth\le\BuildConfig.class
+* Bluetooth4_3\bin\classes\com\example\bluetooth\le\DeviceControlActivity$1.class
+* Bluetooth4_3\bin\classes\com\example\bluetooth\le\DeviceControlActivity$2.class
+* Bluetooth4_3\bin\classes\com\example\bluetooth\le\DeviceControlActivity$3.class
+* Bluetooth4_3\bin\classes\com\example\bluetooth\le\DeviceControlActivity$4.class
+* Bluetooth4_3\bin\classes\com\example\bluetooth\le\DeviceControlActivity.class
+* Bluetooth4_3\bin\classes\com\example\bluetooth\le\DeviceScanActivity$1$1.class
+* Bluetooth4_3\bin\classes\com\example\bluetooth\le\DeviceScanActivity$1.class
+* Bluetooth4_3\bin\classes\com\example\bluetooth\le\DeviceScanActivity$2.class
+* Bluetooth4_3\bin\classes\com\example\bluetooth\le\DeviceScanActivity$LeDeviceListAdapter.class
+* Bluetooth4_3\bin\classes\com\example\bluetooth\le\DeviceScanActivity$ViewHolder.class
+* Bluetooth4_3\bin\classes\com\example\bluetooth\le\DeviceScanActivity.class
+* Bluetooth4_3\bin\classes\com\example\bluetooth\le\R$attr.class
+* Bluetooth4_3\bin\classes\com\example\bluetooth\le\R$dimen.class
+* Bluetooth4_3\bin\classes\com\example\bluetooth\le\R$drawable.class
+* Bluetooth4_3\bin\classes\com\example\bluetooth\le\R$id.class
+* Bluetooth4_3\bin\classes\com\example\bluetooth\le\R$layout.class
+* Bluetooth4_3\bin\classes\com\example\bluetooth\le\R$menu.class
+* Bluetooth4_3\bin\classes\com\example\bluetooth\le\R$string.class
+* Bluetooth4_3\bin\classes\com\example\bluetooth\le\R$style.class
+* Bluetooth4_3\bin\classes\com\example\bluetooth\le\R.class
+* Bluetooth4_3\bin\classes\com\example\bluetooth\le\SampleGattAttributes.class
+* Bluetooth4_3\bin\jarlist.cache
+* Bluetooth4_3\gen\
+* Bluetooth4_3\gen\com\
+* Bluetooth4_3\gen\com\example\
+* Bluetooth4_3\gen\com\example\bluetooth\
+* Bluetooth4_3\gen\com\example\bluetooth\le\
+* Bluetooth4_3\gen\com\example\bluetooth\le\BuildConfig.java
+* Bluetooth4_3\gen\com\example\bluetooth\le\R.java
+* Bluetooth4_3\ic_launcher-web.png
+* Bluetooth4_3\libs\
+* Bluetooth4_3\libs\android-support-v4.jar
+* Bluetooth4_3\proguard-project.txt
+* Bluetooth4_3\project.properties
+* Bluetooth4_3\res\
+* Bluetooth4_3\res\drawable-hdpi\
+* Bluetooth4_3\res\drawable-hdpi\ic_launcher.png
+* Bluetooth4_3\res\drawable-mdpi\
+* Bluetooth4_3\res\drawable-mdpi\ic_launcher.png
+* Bluetooth4_3\res\drawable-xhdpi\
+* Bluetooth4_3\res\drawable-xhdpi\ic_launcher.png
+* Bluetooth4_3\res\drawable-xxhdpi\
+* Bluetooth4_3\res\drawable-xxhdpi\ic_launcher.png
+* Bluetooth4_3\res\layout\
+* Bluetooth4_3\res\layout\actionbar_indeterminate_progress.xml
+* Bluetooth4_3\res\layout\activity_main.xml
+* Bluetooth4_3\res\layout\gatt_services_characteristics.xml
+* Bluetooth4_3\res\layout\listitem_device.xml
+* Bluetooth4_3\res\menu\
+* Bluetooth4_3\res\menu\gatt_services.xml
+* Bluetooth4_3\res\menu\main.xml
+* Bluetooth4_3\res\values-sw600dp\
+* Bluetooth4_3\res\values-sw600dp\dimens.xml
+* Bluetooth4_3\res\values-sw720dp-land\
+* Bluetooth4_3\res\values-sw720dp-land\dimens.xml
+* Bluetooth4_3\res\values-v11\
+* Bluetooth4_3\res\values-v11\styles.xml
+* Bluetooth4_3\res\values-v14\
+* Bluetooth4_3\res\values-v14\styles.xml
+* Bluetooth4_3\res\values\
+* Bluetooth4_3\res\values\dimens.xml
+* Bluetooth4_3\res\values\strings.xml
+* Bluetooth4_3\res\values\styles.xml
+* Bluetooth4_3\src\
+* Bluetooth4_3\src\com\
+* Bluetooth4_3\src\com\example\
+* Bluetooth4_3\src\com\example\bluetooth\
+* Bluetooth4_3\src\com\example\bluetooth\le\
+* Bluetooth4_3\src\com\example\bluetooth\le\BluetoothLeService.java
+* Bluetooth4_3\src\com\example\bluetooth\le\DeviceControlActivity.java
+* Bluetooth4_3\src\com\example\bluetooth\le\DeviceScanActivity.java
+* Bluetooth4_3\src\com\example\bluetooth\le\SampleGattAttributes.java
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

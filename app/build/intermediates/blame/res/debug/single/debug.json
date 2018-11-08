@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\SuccessTest\\ECG\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_context_pc80b.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\SuccessTest\\ECG\\app\\src\\main\\res\\layout\\main_context_pc80b.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\SuccessTest\\ECG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_smooth.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\SuccessTest\\ECG\\app\\src\\main\\res\\drawable-hdpi\\smooth.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\SuccessTest\\ECG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_battery_0_ing.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\SuccessTest\\ECG\\app\\src\\main\\res\\drawable-hdpi\\battery_0_ing.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\SuccessTest\\ECG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bluecon_1.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\SuccessTest\\ECG\\app\\src\\main\\res\\drawable-hdpi\\bluecon_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\SuccessTest\\ECG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bluecon_0.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\SuccessTest\\ECG\\app\\src\\main\\res\\drawable-hdpi\\bluecon_0.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\SuccessTest\\ECG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_battery_1_ing.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\SuccessTest\\ECG\\app\\src\\main\\res\\drawable-hdpi\\battery_1_ing.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\SuccessTest\\ECG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_battery_2.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\SuccessTest\\ECG\\app\\src\\main\\res\\drawable-hdpi\\battery_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\SuccessTest\\ECG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logo.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\SuccessTest\\ECG\\app\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\SuccessTest\\ECG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_battery_2_ing.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\SuccessTest\\ECG\\app\\src\\main\\res\\drawable-hdpi\\battery_2_ing.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\SuccessTest\\ECG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_battery_3.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\SuccessTest\\ECG\\app\\src\\main\\res\\drawable-hdpi\\battery_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\SuccessTest\\ECG\\app\\build\\intermediates\\res\\merged\\debug\\layout_progdialog.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\SuccessTest\\ECG\\app\\src\\main\\res\\layout\\progdialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\SuccessTest\\ECG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_background1.jpg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\SuccessTest\\ECG\\app\\src\\main\\res\\drawable-mdpi\\background1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\SuccessTest\\ECG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_battery_3_ing.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\SuccessTest\\ECG\\app\\src\\main\\res\\drawable-hdpi\\battery_3_ing.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\SuccessTest\\ECG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_resultdisplay.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\SuccessTest\\ECG\\app\\src\\main\\res\\drawable-mdpi\\resultdisplay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\SuccessTest\\ECG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\SuccessTest\\ECG\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\SuccessTest\\ECG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_battery_1.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\SuccessTest\\ECG\\app\\src\\main\\res\\drawable-hdpi\\battery_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\SuccessTest\\ECG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mainheart_ok.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\SuccessTest\\ECG\\app\\src\\main\\res\\drawable-hdpi\\mainheart_ok.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\SuccessTest\\ECG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_progress.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\SuccessTest\\ECG\\app\\src\\main\\res\\drawable-hdpi\\progress.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\SuccessTest\\ECG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_battery_0.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\SuccessTest\\ECG\\app\\src\\main\\res\\drawable-hdpi\\battery_0.png"
+    }
+]
